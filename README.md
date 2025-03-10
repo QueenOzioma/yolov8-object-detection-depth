@@ -44,3 +44,11 @@ python3 scripts/depth_measurement.py
 
     Depth Measurement Output
         Bounding box and segmentation depth values displayed on the image.(This code is faulty because it retuns same values for both depth methods)
+## ** Screenshots**
+
+### ** FPS Comparison Between CPU and AI Hat**
+![FPS Comparison](Comparison%20Between%20CPU%20and%20AI%20Hat%20Speed_screenshot_10.03.2025.png)
+
+### ** YOLOv8 Segmentation - Depth Measurement**
+![Depth Measurement](YOLOv8%20Segmentation%20-%20Depth%20Measurement_screenshot_10.03.2025.png)
+
