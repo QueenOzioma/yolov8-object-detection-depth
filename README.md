@@ -43,4 +43,4 @@ python3 scripts/depth_measurement.py
         FPS for both CPU and AI Hat.
 
     Depth Measurement Output
-        Bounding box and segmentation depth values displayed on the image.
+        Bounding box and segmentation depth values displayed on the image.(This code is faulty because it retuns same values for both depth methods)
