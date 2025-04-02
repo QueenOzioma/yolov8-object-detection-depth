@@ -33,4 +33,6 @@ This script compares inference speed (FPS) between **CPU and AI Hat**.
         FPS for both CPU and AI Hat.
 
     Depth Measurement Output
-        Bounding box and segmentation depth values displayed on the image.(This code is faulty because it retuns same values for both depth methods)
+        Bounding box and segmentation depth values displayed on the image.
+**# **CPU_yolo_realsense_seg.py****
+This script evaluates two depth measurement methods- bounding box and segmentation
