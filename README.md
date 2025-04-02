@@ -1,11 +1,11 @@
-# **Object Detection and Depth Measurement with YOLOv8 and AI Hat**
+# **Object Detection, Segmentation and distance Estimate**
 
 ## ** Project Overview**
-This project compares **YOLOv8 inference speed** and **depth measurement accuracy** between:
+This project compares **YOLOv8 inference speed** FPS between:
 - **CPU-based processing** (using OpenCV & PyTorch)
 - **AI Hat hardware acceleration** (Hailo AI Hat on Raspberry Pi 5)
 
-It also evaluates two depth measurement methods:
+It also evaluates **depth measurement accuracy** using two depth measurement methods:
 1. **Bounding Box Depth**: Uses the depth at the center of the detected object.
 2. **Segmentation Mask Depth**: Averages depth values across the detected region.
 
