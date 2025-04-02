@@ -24,17 +24,7 @@ It also evaluates two depth measurement methods:
 This script compares inference speed (FPS) between **CPU and AI Hat**.
 
 ```bash
-python3 scripts/fps_comparison.py
 
-    Displays bounding boxes (on CPU) and FPS for both methods.
-
- # **Running Depth Measurement**
-
-This script measures object distance using bounding box and segmentation mask depth.
-
-python3 scripts/depth_measurement.py
-
-    Requires a captured depth image (test_depth.npy).
 
  Expected Output
 
