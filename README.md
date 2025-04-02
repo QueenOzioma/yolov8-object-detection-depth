@@ -1,4 +1,4 @@
-# **Object Detection, Segmentation and distance Estimate using YOLOv8**
+# **Object Detection, Segmentation and Distance Estimate using YOLOv8**
 
 ## ** Project Overview**
 This project compares **YOLOv8 inference speed** FPS between:
